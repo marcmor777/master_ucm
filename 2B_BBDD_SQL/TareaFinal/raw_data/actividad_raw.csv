@@ -1,0 +1,95 @@
+﻿nombre; tipo;coste
+Taller de Cocina; Gastronomía; 80.00
+Clase de Yoga; Bienestar; 25.00
+Torneo de Ajedrez; Deportes; 30.00
+Noche de Monólogos; Humor; 40.00
+Festival de Jazz; Música; 60.00
+Curso de Fotografía; Arte; 70.00
+Seminario de Marketing Digital; Conferencia; 90.00
+Cata de Vinos; Gastronomía; 55.00
+Exhibición de Danza; Danza; 35.00
+Maratón de Cine de Terror; Cine; 20.00
+Taller de Escritura Creativa; Literatura; 45.00
+Concierto de Música Clásica; Música; 50.00
+Clase de Pintura; Arte; 65.00
+Charla sobre Inteligencia Artificial; Conferencia; 85.00
+Degustación de Cervezas Artesanales; Gastronomía; 40.00
+Espectáculo de Magia; Magia; 30.00
+Torneo de Videojuegos; Videojuegos; 25.00
+Noche de Karaoke; Música; 15.00
+Curso de Diseño Gráfico; Diseño; 75.00
+Festival de Teatro Callejero; Teatro; 35.00
+Taller de Robótica; Tecnología; 80.00
+Cata de Quesos; Gastronomía; 50.00
+Exhibición de Artes Marciales; Deportes; 45.00
+Maratón de Cine de Ciencia Ficción; Cine; 20.00
+Taller de Jardinería Urbana; Naturaleza; 30.00
+Concierto de Música Indie; Música; 40.00
+Clase de Escultura; Arte; 60.00
+Seminario de Finanzas Personales; Conferencia; 90.00
+Degustación de Chocolates; Gastronomía; 55.00
+Espectáculo de Circo; Circo; 35.00
+Torneo de Dardos; Deportes; 25.00
+Noche de Poesía; Literatura; 15.00
+Curso de Edición de Video; Audiovisual; 70.00
+Festival de Danza Contemporánea; Danza; 35.00
+Taller de Impresión 3D; Tecnología; 85.00
+Cata de Cafés Especiales; Gastronomía; 40.00
+Exhibición de Skateboarding; Deportes; 30.00
+Maratón de Cine Clásico; Cine; 20.00
+Taller de Creación de Cómic; Arte; 50.00
+Concierto de Música Electrónica; Música; 45.00
+Clase de Cerámica; Arte; 65.00
+Charla sobre Sostenibilidad; Conferencia; 80.00
+Degustación de Aceites de Oliva; Gastronomía; 55.00
+Espectáculo de Flamenco; Danza; 35.00
+Torneo de Billar; Deportes; 25.00
+Noche de Improvisación Teatral; Teatro; 15.00
+Curso de Animación Digital; Audiovisual; 75.00
+Festival de Música Folclórica; Música; 35.00
+Taller de Programación para Principiantes; Tecnología; 90.00
+Cata de Sidras; Gastronomía; 40.00
+Exhibición de Parkour; Deportes; 30.00
+Maratón de Cine de Animación; Cine; 20.00
+Taller de Diseño de Videojuegos; Videojuegos; 60.00
+Concierto de Música Latina; Música; 50.00
+Clase de Acuarela; Arte; 65.00
+Seminario de Liderazgo; Conferencia; 85.00
+Degustación de Helados Artesanales; Gastronomía; 55.00
+Espectáculo de Stand-up Comedy; Humor; 35.00
+Torneo de Tenis de Mesa; Deportes; 25.00
+Noche de Juegos de Mesa; Ocio; 15.00
+Curso de Marketing de Contenidos; Marketing; 70.00
+Festival de Cine Documental; Cine; 35.00
+Taller de Diseño de Páginas Web; Tecnología; 80.00
+Cata de Tés del Mundo; Gastronomía; 40.00
+Exhibición de Escalada; Deportes; 30.00
+Maratón de Cine de Superhéroes; Cine; 20.00
+Taller de Creación de Personajes; Literatura; 50.00
+Concierto de Música Soul; Música; 45.00
+Clase de Vitrales; Arte; 60.00
+Charla sobre Ciberseguridad; Conferencia; 90.00
+Degustación de Productos Ecológicos; Gastronomía; 55.00
+Espectáculo de Ilusionismo; Magia; 35.00
+Torneo de Fútbolín; Deportes; 25.00
+Noche de Trivia; Ocio; 15.00
+Curso de Community Manager; Marketing; 75.00
+Festival de Teatro Musical; Teatro; 35.00
+Taller de Desarrollo de Aplicaciones Móviles; Tecnología; 85.00
+Cata de Mieles; Gastronomía; 40.00
+Exhibición de Slackline; Deportes; 30.00
+Maratón de Cine de Aventuras; Cine; 20.00
+Taller de Guion de Cine; Cine; 60.00
+Concierto de Música Reggae; Música; 50.00
+Clase de Origami; Arte; 65.00
+Seminario de Gestión de Proyectos; Conferencia; 80.00
+Degustación de Frutos Secos; Gastronomía; 55.00
+Espectáculo de Clown; Circo; 35.00
+Torneo de Ping Pong; Deportes; 25.00
+Noche de Juegos de Rol; Ocio; 15.00
+Curso de SEO; Marketing; 70.00
+Festival de Cine de Animación; Cine; 35.00
+Taller de Creación de Podcasts; Audiovisual; 80.00
+Cata de Aguas del Mundo; Gastronomía; 40.00
+Exhibición de BMX; Deportes; 30.00
+Maratón de Cine de Terror Clásico; Cine; 20.00

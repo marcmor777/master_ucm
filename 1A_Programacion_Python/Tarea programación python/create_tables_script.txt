@@ -1,0 +1,79 @@
+--I created the empresa_evento database using this script:
+-- Script to create the tables for the empresa_eventos database
+
+-- Table: ubicacion
+CREATE TABLE IF NOT EXISTS ubicacion (
+    id_ubicacion INT PRIMARY KEY AUTO_INCREMENT,
+    nombre VARCHAR(255),
+    direccion VARCHAR(255),
+    ciudad_pueblo VARCHAR(255),
+    aforo INT,
+    precio_alquiler DECIMAL(10, 2),
+    caracteristicas TEXT
+);
+-- Table: actividad
+CREATE TABLE IF NOT EXISTS actividad (
+    id_actividad INT PRIMARY KEY AUTO_INCREMENT,
+    nombre VARCHAR(255),
+    tipo VARCHAR(50),
+    coste DECIMAL(10, 2)
+);
+
+-- Table: artista
+CREATE TABLE IF NOT EXISTS artista (
+    id_artista INT PRIMARY KEY AUTO_INCREMENT,
+    nombre VARCHAR(255),
+    biografia TEXT
+);
+
+-- Table: asistente
+CREATE TABLE IF NOT EXISTS asistente (
+    id_asistente INT PRIMARY KEY AUTO_INCREMENT,
+    nombre_completo VARCHAR(255),
+    email VARCHAR(255)
+);
+
+
+-- Table: evento
+CREATE TABLE IF NOT EXISTS evento (
+    id_evento INT PRIMARY KEY AUTO_INCREMENT,
+    nombre VARCHAR(255),
+    id_ubicacion INT NOT NULL,
+    precio_entrada DECIMAL(10, 2),
+    fecha DATE,
+    hora TIME,
+    id_actividad INT NOT NULL,
+    FOREIGN KEY (id_ubicacion) REFERENCES ubicacion(id_ubicacion) ON DELETE CASCADE ON UPDATE CASCADE,
+    FOREIGN KEY (id_actividad) REFERENCES actividad(id_actividad) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+
+-- Table: telefono_asistente
+CREATE TABLE IF NOT EXISTS telefono_asistente (
+    id_asistente INT NOT NULL,
+    numero_telefono VARCHAR(20) NOT NULL,
+    FOREIGN KEY (id_asistente) REFERENCES asistente(id_asistente) ON DELETE CASCADE ON UPDATE CASCADE,
+    PRIMARY KEY (id_asistente, numero_telefono)
+);
+
+-- Table: actividad_artista
+CREATE TABLE IF NOT EXISTS actividad_artista (
+    id_actividad INT NOT NULL,
+    id_artista INT NOT NULL,
+    cache_artista DECIMAL(10, 2),
+    FOREIGN KEY (id_actividad) REFERENCES actividad(id_actividad) ON DELETE CASCADE ON UPDATE CASCADE,
+    FOREIGN KEY (id_artista) REFERENCES artista(id_artista) ON DELETE CASCADE ON UPDATE CASCADE,
+    PRIMARY KEY (id_actividad, id_artista)
+);
+
+-- Table: asistencia_evento
+CREATE TABLE IF NOT EXISTS asistencia_evento (
+    id_asistente INT NOT NULL,
+    id_evento INT NOT NULL,
+    valoracion INT CHECK (valoracion BETWEEN 0 AND 5),
+    FOREIGN KEY (id_asistente) REFERENCES asistente(id_asistente) ON DELETE CASCADE ON UPDATE CASCADE,
+    FOREIGN KEY (id_evento) REFERENCES evento(id_evento) ON DELETE CASCADE ON UPDATE CASCADE,
+    PRIMARY KEY (id_asistente, id_evento)
+);
+
+Now, please help me to create scripts to load data into these tables. Maximum 10000 rows per table

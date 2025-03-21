@@ -1,0 +1,11 @@
+﻿ nombre; id_ubicacion; precio_entrada; fecha; hora; id_actividad
+Fiestas de Huelva;17;30;02/01/2025;19:00;3
+Feria Empleo Alicante;1;20;01/11/2024;9:00;56
+Feria Empleo Vigo;5;25;01/10/2024;9:00;56
+Feria Empleo Granada;6;31;01/10/2024;9:00;56
+Feria Empleo Ourense;31;42;01/10/2024;9:00;56
+Feria Empleo Guadalajara;27;19;01/10/2024;9:00;56
+Feria Arte Cuenca;28;33;12/08/2024;17:00;5
+Feria Arte Bilbao;4;45;12/08/2023;17:00;5
+evento_gen_01;38;20;21/02/2024;12:00;20
+evento_gen_03;21;15;15/03/2024;18:30;13

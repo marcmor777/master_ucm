@@ -1,0 +1,43 @@
+﻿nombre; direccion; ciudad_pueblo; aforo; precio_alquiler; caracteristicas
+Sala de Eventos Este; Calle Sol 67; Alicante;400; 1200.00; Iluminación ambiental escenario modular guardarropa.
+Espacio Cultural Oeste; Avenida Luna 89; Murcia;600; 1600.00; Galería de arte sala de conferencias jardín interior.
+Centro de Convenciones Norte; Calle Estrella 101; Zaragoza;1500; 2800.00; Salas de reuniones equipo audiovisual catering.
+Auditorio del Parque; Paseo del Río 34; Bilbao;800; 2000.00; Entorno natural anfiteatro al aire libre zona de picnic.
+Sala Polivalente Sur; Calle Mar 56; Vigo;350; 1100.00; Pista de baile barra de bar equipo de DJ.
+Salón de Actos Levante; Avenida Montaña 78; Granada;900; 2200.00; Vistas panorámicas escenario elevado cabina de traducción.
+Espacio Creativo Centro; Calle Arte 90; Oviedo;200; 900.00; Talleres exposiciones proyecciones.
+Teatro Experimental; Plaza Libertad 12; Santander;250; 800.00; Escenario flexible iluminación teatral sonido envolvente.
+Sala de Exposiciones; Avenida Cultura 34; San Sebastián;500; 1400.00; Paneles modulares iluminación ajustable seguridad.
+Centro de Negocios; Calle Comercio 56; Albacete;700; 1800.00; Salas de juntas videoconferencia internet de alta velocidad.
+Salón de Banquetes; Paseo Jardín 78; Burgos;1000; 2500.00; Cocina equipada mesas y sillas decoración elegante.
+Espacio Coworking; Avenida Innovación 90; Logroño;150; 700.00; Escritorios sala de reuniones café.
+Sala de Proyecciones; Calle Cine 12; Salamanca;300; 1000.00; Pantalla grande proyector de alta definición butacas.
+Centro de Formación; Avenida Aprendizaje 34; Valladolid;400; 1200.00; Aulas pizarra interactiva ordenadores.
+Sala de Juegos; Calle Diversión 56; León;200; 800.00; Mesas de billar futbolín dardos.
+Espacio Deportivo; Paseo Deporte 78; Cádiz;600; 1600.00; Cancha de baloncesto voleibol fútbol sala.
+Sala de Ensayo; Avenida Música 90; Huelva;100; 600.00; Aislamiento acústico espejos equipo de sonido.
+Centro de Idiomas; Calle Lenguas 12; Badajoz;250; 900.00; Aulas laboratorio de idiomas biblioteca.
+Salón de Té; Avenida Relax 34; Jaén;150; 700.00; Ambiente tranquilo mesas y sillas música suave.
+Espacio de Danza; Calle Baile 56; Córdoba;300; 1000.00; Suelo de madera espejos barra de ballet.
+Sala de Yoga; Paseo Bienestar 78; Ciudad Real;100; 600.00; Colchonetas cojines incienso.
+Centro de Terapias; Avenida Salud 90; Palencia;200; 800.00; Camillas aceites esenciales música relajante.
+Salón de Belleza; Calle Estilo 12; Ávila;150; 700.00; Espejos sillas de peluquería productos de belleza.
+Espacio de Moda; Avenida Tendencias 34; Segovia;250; 900.00; Pasarela espejos iluminación de pasarela.
+Sala de Catas; Calle Vino 56; Soria;100; 600.00; Mesas de cata copas escupideras.
+Centro de Jardinería; Paseo Flores 78; Teruel;200; 800.00; Mesas de trabajo herramientas de jardinería plantas.
+Espacio de Cocina; Avenida Sabores 90; Guadalajara;300; 1000.00; Cocina equipada mesas de trabajo utensilios de cocina.
+Sala de Manualidades; Calle Creatividad 12; Cuenca;150; 700.00; Mesas de trabajo materiales de manualidades herramientas.
+Centro de Fotografía; Avenida Imágenes 34; Toledo;250; 900.00; Estudio de fotografía iluminación fondos.
+Salón de Juegos de Mesa; Calle Estrategia 56; Zamora;100; 600.00; Mesas de juego sillas juegos de mesa.
+Espacio de Lectura; Paseo Libros 78; Ourense;200; 800.00; Estanterías sillones lámparas de lectura.
+Sala de Meditación; Avenida Paz 90; Lugo;150; 700.00; Cojines de meditación incienso música relajante.
+Centro de Astronomía; Calle Estrellas 12; Pontevedra;250; 900.00; Telescopios mapas estelares proyector de estrellas.
+Salón de Ajedrez; Avenida Intelecto 34; Palma de Mallorca;100; 600.00; Mesas de ajedrez sillas relojes de ajedrez.
+Espacio de Modelismo; Calle Miniaturas 56; Santa Cruz de Tenerife;200; 800.00; Mesas de trabajo herramientas de modelismo materiales.
+Sala de Robótica; Paseo Tecnología 78; Las Palmas de Gran Canaria;300; 1000.00; Mesas de trabajo ordenadores kits de robótica.
+Centro de Videojuegos; Avenida Aventura 90; Ceuta;250; 900.00; Ordenadores consolas pantallas.
+Salón de Magia; Calle Ilusión 12; Melilla;100; 600.00; Escenario espejos iluminación especial.
+Espacio de Circo; Avenida Espectáculo 34; Ibiza;200; 800.00; Trapecios cuerdas colchonetas.
+Sala de Teatro de Marionetas; Calle Títeres 56; Formentera;150; 700.00; Escenario marionetas telón.
+Centro de Interpretación; Paseo Historia 78; Menorca;250; 900.00; Paneles informativos audiovisuales objetos históricos.
+Espacio de Arte Digital; Avenida Pixel 90; Girona;300; 1000.00; Ordenadores tabletas gráficas proyectores.
